@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vincentchen743/personal-site.git"
+    "url": "git@github.com:vincentchen743/personal-site.git"
   },
   "scripts": {
     "build": "rimraf ./build && react-scripts build",
