@@ -19,14 +19,13 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Michael. I like building things.
-        I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni, and
-        the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
-        at <a href="https://matroid.com">Matroid</a>
-        , <a href="https://planet.com">Planet</a>
-        , <a href="https://planetaryresources.com">Planetary Resources</a>
-        , <a href="https://facebook.com">Facebook</a>
-        , and <a href="https://seds.org">SEDS</a>.
+      <p>Hi, I&apos;m Vincent. I like creating and building things that are useful for others.
+        I am a Computer Science student at UNSW, and currently a Data Science Intern at Atlassian.
+        Before Atlassian I was at ASIC, PwC, Forage and Westpac.
+        {/* <a href="https://matroid.com">ASIC</a>
+        , <a href="https://planet.com">PwC</a>
+        , <a href="https://planetaryresources.com">Forage</a>
+        , and <a href="https://seds.org">Westpac</a>. */}
       </p>
       <ul className="actions">
         <li>
@@ -37,7 +36,6 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.</p>
     </section>
   </section>
 );
