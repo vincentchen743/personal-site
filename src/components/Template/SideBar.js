@@ -19,7 +19,7 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Vincent. I like creating and building things that are useful for others.
+      <p>Hi, I&apos;m Vincent. I like creating with a purpose of benefitting others.
         I am a Computer Science student at UNSW, and currently a Data Science Intern at Atlassian.
         Before Atlassian I was at ASIC, PwC, Forage and Westpac.
         {/* <a href="https://matroid.com">ASIC</a>
