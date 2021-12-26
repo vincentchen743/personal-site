@@ -1,6 +1,17 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Bot Detection with ML',
+    subtitle: 'Won 2nd place in 2020 Wit x Nine Data Analytics Competition',
+    link: 'https://github.com/vincentchen743/wit-nine-analytics',
+    image: '/images/projects/analyticscomp.png',
+    date: '2019-11-09',
+    desc:
+      'Won ~ $150 in prizes for a machine learning model that predicted whether '
+      + 'visitors to the Sydney Morning Herald site were bots or real readers, '
+      + 'providing Nine with actionable insights in regards to subscriber conversion and advertising.',
+  },
+  {
     title: 'Chips Dashboard',
     subtitle: 'Quantium x Forage Data Analysis Virtual Experience',
     link: 'https://github.com/vincentchen743/forage-quantium-project',
@@ -10,17 +21,6 @@ const data = [
       'Worked with supermarket data to generate insights'
       + 'about customer segments and behaviours.',
   },
-  // {
-  //   title: 'Harvest',
-  //   subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-  //   link: 'https://devpost.com/software/harvest',
-  //   image: '/images/projects/harvest.jpg',
-  //   date: '2015-09-20',
-  //   desc:
-  //     'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-  //     + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-  //     + 'and nutrient deficiencies at an affordable price for the developing world.',
-  // },
   // {
   //   title: 'Space Potato',
   //   subtitle: 'A kickstarter funded potato powered weather balloon.',
